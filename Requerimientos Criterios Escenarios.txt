@@ -1,0 +1,17 @@
+Requerimientos
+R01: Analizar los strings que se proveen en los casos de prueba.
+R02: Comparar los strings entre ellos.
+R03: Verificar si los strings son Isomorphic entre ellos.
+
+Criterios de Aceptacion
+C01: No se aceptan numeros o caracteres especiales en los strings.
+C02: No se aceptan mayusculas en los strings.
+C03: Debe verificar los strings tiene la misma cantidad de caracteres.
+C04: Debe verificar si los caracteres estan mapeados con los del string a comparar.
+
+Escenarios de prueba
+E01: "aba" = "xyx"
+E02: "ccda" = "kklm"
+E03: "kilo" = "maiz"
+E04: "kids" != "aa"
+E05: "adad" != "ccbb"
