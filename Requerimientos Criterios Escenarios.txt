@@ -1,0 +1,16 @@
+Requerimientos
+R01: Analizar y comparar los strings que se proveen en los escenarios de Prueba.
+R02: Verificar si los strings son "Isomorphic" entre ellos.
+
+Criterios de Aceptacion
+C01: No se aceptan numeros o caracteres especiales.
+C02: No se aceptan Mayusculas.
+C03: Los strings deben tener la misma cantidad de caracteres.
+C04: Verificar que cada este mapeado con uno del otro string.
+
+Escenarios de Prueba
+E01: "aba" = "xyx"
+E02: "cadd" = "xyzz"
+E03: "hello" = "hiaao"
+E04: "hola" != "aa"
+E05: "hair" != "Hana"
